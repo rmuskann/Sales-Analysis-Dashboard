@@ -68,6 +68,7 @@ To present a **concise and insightful view of business sales data**, enabling:
 - Supports **data-driven decisions** with accurate metrics  
 - Demonstrates a strong **portfolio project** for Power BI learners
 
-## 📸 Screenshot
+## 📸 Screenshot & Demo
+
 
 ![Sales Analysis Dashboard](https://github.com/rmuskann/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis.png)
