@@ -70,4 +70,4 @@ To present a **concise and insightful view of business sales data**, enabling:
 
 ## 📸 Screenshot
 
-![Sales Analysis Dashboard](images/Sales_Analysis.png)
+![Sales Analysis Dashboard](https://github.com/rmuskann/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis.png)
